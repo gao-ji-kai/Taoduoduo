@@ -1,0 +1,4 @@
+<button type="primary"  bindtap="handleGetUserInfo" >
+  获取授权
+</button>
+  
